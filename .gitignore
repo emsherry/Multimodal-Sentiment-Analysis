@@ -15,3 +15,10 @@ venv/
 
 # Optional: ignore logs or temp
 *.log
+*.zip
+*.npy
+*.wav
+*.h5
+*.mp3
+backend/data/spectrograms/
+backend/data/raw_audio/
