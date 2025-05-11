@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environments
+venv/
+
+# Ignore audio and intermediate data
+*.wav
+*.npy
+*.h5
+
+# Ignore system files
+.DS_Store
+
+# Optional: ignore logs or temp
+*.log
