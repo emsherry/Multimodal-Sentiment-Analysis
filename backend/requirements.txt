@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-tensorflow
-librosa
-numpy
-scikit-learn
